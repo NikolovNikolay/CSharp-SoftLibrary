@@ -1,0 +1,4 @@
+E:\Dropbox\Telerik Projects\MyProjects\SoftLibrary\SoftLibrary\bin\Release\SoftLibrary.dll
+E:\Dropbox\Telerik Projects\MyProjects\SoftLibrary\SoftLibrary\bin\Release\SoftLibrary.pdb
+E:\Dropbox\Telerik Projects\MyProjects\SoftLibrary\SoftLibrary\obj\Release\SoftLibrary.dll
+E:\Dropbox\Telerik Projects\MyProjects\SoftLibrary\SoftLibrary\obj\Release\SoftLibrary.pdb

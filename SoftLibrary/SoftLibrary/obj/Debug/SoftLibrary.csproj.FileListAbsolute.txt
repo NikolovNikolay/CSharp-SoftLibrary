@@ -1,0 +1,5 @@
+E:\Dropbox\Telerik Projects\MyProjects\SoftLibrary\SoftLibrary\bin\Debug\SoftLibrary.dll
+E:\Dropbox\Telerik Projects\MyProjects\SoftLibrary\SoftLibrary\bin\Debug\SoftLibrary.pdb
+E:\Dropbox\Telerik Projects\MyProjects\SoftLibrary\SoftLibrary\obj\Debug\SoftLibrary.csprojResolveAssemblyReference.cache
+E:\Dropbox\Telerik Projects\MyProjects\SoftLibrary\SoftLibrary\obj\Debug\SoftLibrary.dll
+E:\Dropbox\Telerik Projects\MyProjects\SoftLibrary\SoftLibrary\obj\Debug\SoftLibrary.pdb
